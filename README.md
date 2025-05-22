@@ -1,5 +1,5 @@
 # NUTRITION-PARADOX-A-Global-View-on-Obesity-and-Malnutrition
-Comparison of malnutrition and obesity from the given data.
+Comparison of malnutrition and obesity from the given data using pandas,datvisualisation,carrying out Exploratory Data Analysis and acknowledging SQL queries.
 Here data is collected from the given url and is transformed to a dataframe.
 The data has to be extracted fro 4 urls ,two for obesity and two for malnutrition.
 Two among the 4 dataframes are joined and thus two tables one of malnutrition and other of obesity is formed.
